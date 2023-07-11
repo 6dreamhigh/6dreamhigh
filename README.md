@@ -1,4 +1,4 @@
-![<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20Welcome%20to%20SeoJung's%20Github%20👋&fontSize=90" width="800" />
+![<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20Welcome%20to%20SeoJung's%20Github%20👋&fontSize=80" width="1500" />
 
 
 
