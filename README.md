@@ -2,18 +2,75 @@
 
 👋 반갑습니다, 황서정입니다.
 
-## 🐥 Profile
+## Front-End
 
-- 🎓 Department of Computer Engineering, Korean foreign Univ.
+- ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 💻 My Skills
+## Back-End
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-## 💡 Used at Least Once
+## DevOps
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white) ![UNIX](https://img.shields.io/badge/UNIX-007fff?style=for-the-badge&logo=DE1SoC&logoColor=white) ![Solaris](https://img.shields.io/badge/Solaris-8b00ff?style=for-the-badge&logo=DE1SoC&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=FFmpeg&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+- Naver cloud
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-🌱 Keep learning and exploring new technologies!
+## Collaboration & Tools
 
-📫 You can reach me at [6dreamhigh@naver.com]
+- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+- ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+- ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
+# 💻 Projects
+
+---
+
+## OhMyGoal
+
+2023.04.11 ~ 2023.04.28
+
+[https://github.com/Nyoungsun/OhMyGoal](https://github.com/Nyoungsun/OhMyGoal)
+
+- 사용자들이 다양한 주제로 미션을 생성하고 참여할 수 있는 기능을 제공하는 1일 1 미션 사이트
+  - 네이버 클라우드 AIaas 개발자 과정 프로젝트
+  - 구현한 기능 - 풀스택 담당
+  - 주로 사용한 기술: HTML, CSS, JavaScript, jQuery, Spring, JDBC, Mybatis, Oracle Cloud DB, Apache Tomcat
+
+## 마실가실
+
+2023.06.02 ~ 2023.07.02
+
+[https://github.com/JDanmuji/MSGS](https://github.com/JDanmuji/MSGS)
+
+- 국내 여행을 위해 여행 경로 및 음식점, 숙박업소, 교통수단 정보 제공하여 여행 일정을 만드는 사이트
+  - 네이버 클라우드 AIaas 개발자 과정 프로젝트
+  - Front-End Team Leader
+  - 구현한 기능 - 프론트 담당
+  - 주로 사용한 기술: React, ES6, Spring Boot, MySQL, JPA
+
+## 내 눈엔 코딩만 void
+
+2022.09.15 ~ 2022.12.05
+
+[https://www.notion.so/10ce004cb6964d8b9e730269032ba4ac](https://www.notion.so/10ce004cb6964d8b9e730269032ba4ac?pvs=21)
+
+- 음식명 로마자 변환 모델 개발
+  - 글나무와 진행한 캡스톤 프로젝트
+  - Team Leader
+  - 구현한 기능
+    - 데이터 수집-글나무에서 제공한 데이터 외에 외래어 데이터 추가적으로 수집
+    - 데이터 전처리 - 외국어와 한국어 각각 추출
+    - 음식명 로마자 변환 모델 및 지침 연구
