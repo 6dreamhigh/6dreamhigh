@@ -47,7 +47,8 @@
 ## 내 눈엔 코딩만 void
 
 2022.09.15 ~ 2022.12.05
-[https://mud-study-671.notion.site/3eb694e8bbb740dfa273538dea164d7e]
+
+[https://mud-study-671.notion.site/3eb694e8bbb740dfa273538dea164d7e)
 
 - 음식명 로마자 변환 모델 개발
   - 글나무와 진행한 캡스톤 프로젝트
