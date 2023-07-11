@@ -40,8 +40,7 @@
 [https://github.com/JDanmuji/MSGS](https://github.com/JDanmuji/MSGS)
 
 - 국내 여행을 위해 여행 경로 및 음식점, 숙박업소, 교통수단 정보 제공하여 여행 일정을 만드는 사이트
-  - 네이버 클라우드 AIaas 개발자 과정 프로젝트
-  - Front-End 
+  - 네이버 클라우드 AIaas 개발자 과정 프로젝트 
   - 구현한 기능 - 프론트 담당
   - 주로 사용한 기술: React, ES6, Spring Boot, MySQL, JPA
 
