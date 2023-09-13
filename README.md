@@ -26,7 +26,7 @@
 
 2023.04.11 ~ 2023.04.28
 
-- [https://github.com/Nyoungsun/OhMyGoal](https://github.com/6dreamhigh/OhMyGoal)
+- [https://github.com/6dreamhigh/OhMyGoal](https://github.com/6dreamhigh/OhMyGoal)
 
 - 사용자들이 다양한 주제로 미션을 생성하고 참여할 수 있는 기능을 제공하는 1일 1 미션 사이트
   - 네이버 클라우드 AIaas 개발자 과정 프로젝트
@@ -37,7 +37,7 @@
 
 2023.06.02 ~ 2023.07.02
 
-- [https://github.com/JDanmuji/MSGS](https://github.com/6dreamhigh/MSGS)
+- [https://github.com/6dreamhigh/MSGS](https://github.com/6dreamhigh/MSGS)
 
 - 국내 여행을 위해 여행 경로 및 음식점, 숙박업소, 교통수단 정보 제공하여 여행 일정을 만드는 사이트
   - 네이버 클라우드 AIaas 개발자 과정 프로젝트 
