@@ -29,7 +29,6 @@
 - [https://github.com/6dreamhigh/OhMyGoal](https://github.com/6dreamhigh/OhMyGoal)
 
 - 사용자들이 다양한 주제로 미션을 생성하고 참여할 수 있는 기능을 제공하는 1일 1 미션 사이트
-  - 네이버 클라우드 AIaas 개발자 과정 프로젝트
   - 구현한 기능 - 풀스택 담당
   - 주로 사용한 기술: HTML, CSS, JavaScript, jQuery, Spring, JDBC, Mybatis, Oracle Cloud DB, Apache Tomcat
 
@@ -40,7 +39,6 @@
 - [https://github.com/6dreamhigh/MSGS](https://github.com/6dreamhigh/MSGS)
 
 - 국내 여행을 위해 여행 경로 및 음식점, 숙박업소, 교통수단 정보 제공하여 여행 일정을 만드는 사이트
-  - 네이버 클라우드 AIaas 개발자 과정 프로젝트 
   - 구현한 기능 - 프론트 담당
   - 주로 사용한 기술: React, ES6, Spring Boot, MySQL, JPA
 
@@ -58,38 +56,3 @@
     - 데이터 전처리 - 외국어와 한국어 각각 추출
     - 음식명 로마자 변환 모델 및 지침 연구
       
-# 🎈 Experiences
-
----
-
-## 네이버클라우드 Alaas 개발자 양성과정
-
-2022.12.30 ~ 2023.07.03(6개월)
-
-[네이버클라우드 캠프]
-
-- AI, Linux, Database, Java, 웹표준 구현, JSP & Servlet, Spring, Spring Boot,
-- NodeJS, Naver Cloud 교육
-- 두 가지 웹 프로젝트 기획부터 개발 과정 통해 full stack 경험
-
-## 2022 캠퍼스타운형 취업 사관학교 AI School
-
-2022.08.01 ~ 2022.10.10
-
-- AI 개발자 양성 교육 과정 중급
-- Python, Machine learning, Deep Learning에 대한 교육을 받고 실습 진행
-
-## 네이버 부스트코스 모두를 위한 파이썬 코칭스터디 : 2022
-
-2022.7.14-2022.8.25(6주)
-
-- python언어를 이용한 강의 듣고 다양한 코딩 문제 풀고 토론 진행
-
-## PNP
-
-2021.04.01 ~ 2022.12.31
-
-- 컴퓨터 공학부 학회 동아리
-- 인공지능 스터디 진행
-- 자바 스터디 진행 - 팀장
-- JAVA, Python, AI, Pandas 학습
